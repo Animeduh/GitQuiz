@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 Lana really wants to do well.
+So does Kevin.
 
 You can use the [editor on GitHub](https://github.com/Animeduh/GitQuiz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
